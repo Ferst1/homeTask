@@ -1,4 +1,4 @@
-package de.telran.task2;
+package de.telran.task1and2;
 
 public class Main {
     public static void main(String[] args) {
